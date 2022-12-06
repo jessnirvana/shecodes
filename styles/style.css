@@ -1,0 +1,26 @@
+.city {
+  padding-top: 20px;
+}
+.current-temp {
+  font-size: 50px;
+}
+.col {
+  text-align: center;
+}
+.card-body {
+  padding-bottom: 0;
+}
+
+.emoji {
+  font-size: 35px;
+}
+.temp {
+  color: gray;
+  font-size: 12px;
+  font-weight: 500;
+  padding-bottom: 25px;
+}
+
+.btn-success {
+  padding: 5px 10px;
+}
